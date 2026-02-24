@@ -3,7 +3,7 @@ Location for Test Case 1 related activities.
 
 Participants are requested to submit their results within a folder following the naming structure below:
 
-Foldername = "<PID>"_TC1_"<TFG><DATASET>"_ e.g. 005_TC1_S01_
+Foldername = "PID"_TC1_"TFG""DATASET"_ e.g. 005_TC1_S01_
 
 Where:
 PID = Participant ID, defined in readme from level above
