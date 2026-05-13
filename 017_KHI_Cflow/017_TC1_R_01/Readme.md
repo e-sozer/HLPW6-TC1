@@ -48,7 +48,8 @@ Eyeball and Cflow method (\*)
 (\*) Based on the gradient of CL and CD convergence history.  
 CL does not change 0.01 within 2FT, CD does not change 0.001 within 2 FT.  
 FT=2 Flow Through MAC based on averaged time step.  
-(Some cases does not satisfy this criteria in this version.)  
+https://doi.org/10.2322/jjsass.71.181 (In Japanese)
+! Some cases does not satisfy this criteria in this version.
 
 ## Miscellaneous:  
 Nothing  
