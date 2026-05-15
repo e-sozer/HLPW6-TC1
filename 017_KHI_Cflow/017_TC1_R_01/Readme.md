@@ -1,6 +1,6 @@
 # High Lift Prediction Workshop 6 - Template Submission Files
 
-This folder contains No.1. and 3. files of the followings:
+This folder contains No.1. and 2. files of the followings, which are submitted for Test Case 1 (Preliminary results for Mini-workshop1):
 
 1. **FM.dat** = Converged or time-averaged Force and Moment data vs. angle of attack, multiple grid levels may be included
    - N.B.: append grid descriptor if providing results for multiple grids
